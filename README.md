@@ -1,20 +1,23 @@
-Welcome to my GITHUB!
+**Welcome to my GITHUB!**
 
-print("  Im Mohammad Taha Bayat.  ")
+me = {
 
-my_skills = {
-
-"Python developer"
-
-"Machine learning"
-
-"Deep learning"
-
-"Image processing"  # learning....
-
-"Text processing"  # learning....
+"Name" : "Mohammad Taha Bayat",
+"Age" : 14,
+"Favorite language" : "Python"
 
 }
 
+my_skill = [
 
-https://s32.picofile.com/file/8481696326/275194692_6c1737a7_bab0_44a8_9074_de6d66c6bb85.gif
+"Python",
+
+"Machine learning",
+
+"Deep learning",
+
+"Image processing", # Learning...
+
+"Text processing" # Learning...
+
+]
