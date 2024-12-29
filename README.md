@@ -1,4 +1,3 @@
-{
 
 **Welcome to my GITHUB!**
 
@@ -24,4 +23,3 @@ my_skill = [
 
 ]
 
-}
