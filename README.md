@@ -1,7 +1,7 @@
 
 **Welcome to my GITHUB!**
 
-``me = {
+`me = {
 
 "Name" : "Mohammad Taha Bayat",
 "Age" : 14,
@@ -21,5 +21,5 @@ my_skill = [
 
 "Text processing" # Learning...
 
-]``
+]`
 
