@@ -1,7 +1,7 @@
 
 **Welcome to my GITHUB!**
 
-``me = {
+me = {
 
 "Name" : "Mohammad Taha Bayat",
 "Age" : 14,
