@@ -17,10 +17,9 @@ my_skill = [
 
 "Deep learning",
 
-"Image processing", # Learning...
+"CV", # Learning...
 
-"Text processing" # Learning...
-
+"NLP"
 ]
 
 ```
