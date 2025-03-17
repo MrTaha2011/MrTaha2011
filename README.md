@@ -29,7 +29,7 @@ my_skill = [
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTaha2011&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTaha2011&layout=compact)
 
-![data-apha](https://github.com/peymanx/peymanx/assets/110537772/6c1737a7-bab0-44a8-9074-de6d66c6bb85)
+![data-apha](https://github.com/MrTaha2011/MrTaha2011/code.gif)
 
 
 <h3 align="left">Connect with me:</h3>
